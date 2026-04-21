@@ -1,0 +1,2 @@
+rm -f pes test_objects test_tree object.o tree.o index.o commit.o pes.o test_objects.o test_tree.o
+rm -rf .pes
